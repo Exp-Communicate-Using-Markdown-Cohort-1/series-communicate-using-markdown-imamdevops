@@ -1,12 +1,3 @@
 # Header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-```
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-```
-
-- [x] List syntax is required
-- [x] This item is complete
-- [ ] This item is not complete
+![Camera]([https://octodex.github.com/images/yaktocat.png](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg))

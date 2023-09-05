@@ -8,3 +8,9 @@ $ git init
 $ git add .
 $ git pull
 ```
+
+
+- [x] Pineple
+- [ ] Apel
+- [ ] Banana
+
